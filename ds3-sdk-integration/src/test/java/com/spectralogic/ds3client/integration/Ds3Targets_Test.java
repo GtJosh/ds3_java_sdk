@@ -31,7 +31,7 @@ import static com.spectralogic.ds3client.integration.test.helpers.ABMTestHelper.
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
-public class Ds3Targets_Test {
+public class qDs3Targets_Test {
 
     private static Ds3Client client;
     private static final String TEST_ENV_NAME = "ds3_targets_test";
